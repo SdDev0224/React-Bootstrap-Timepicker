@@ -1,8 +1,8 @@
-import React, { Component, PropTypes } from "react";
-import moment from "moment";
-import classnames from "classnames";
-import DateTimePicker from "./DateTimePicker.js";
-import Constants from "./Constants.js";
+import React, { Component, PropTypes } from "react"
+import moment from "moment"
+import classnames from "classnames"
+import DateTimePicker from "./DateTimePicker.js"
+import Constants from "./Constants.js"
 
 export default class DateTimeField extends Component {
   static defaultProps = {
