@@ -381,7 +381,7 @@ export default class DateTimeField extends Component {
               </span>
             </div>
           </div>
-    );
+    )
   }
 }
 
